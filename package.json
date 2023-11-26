@@ -7,7 +7,7 @@
     "build": "node build.js"
   },
   "dependencies": {
-    "@octokit/graphql": "^4.5.2",
+    "@octokit/graphql": "^4.8.0",
     "needle": "3.1.0",
     "async.queue": "0.5.2",
     "slug": "8.2.2"
